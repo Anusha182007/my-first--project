@@ -6,7 +6,7 @@ int main()
     int choice;
     float num1, num2;
 
-    cout << "===== Calculator =====" << endl;
+    cout << "simple calculator program" << endl;
     cout << "1. Addition" << endl;
     cout << "2. Subtraction" << endl;
     cout << "3. Multiplication" << endl;
