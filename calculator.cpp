@@ -39,7 +39,7 @@ int main()
             break;
 
         default:
-            cout << "Invalid Choice!";
+            cout << "Invalid option!";
     }
 
     return 0;
